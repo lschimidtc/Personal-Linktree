@@ -1,2 +1,2 @@
 # personal-linktree
-Personal Linktree code with HTML, CSS and Vanilla JavaScript
+Simple Personal Linktree code with HTML, CSS and Vanilla JavaScript
